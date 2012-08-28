@@ -11,8 +11,8 @@ $pageOn = basename($_SERVER['PHP_SELF']);
 	<title>openEHR - Software Program</title>
 
 	<meta name="description" content="openEHR provides open source specifications and reference implementations of future proof EHR systems">
-	<meta name="keywords" content="archetypes, openEHR, EHR, electronic health record, electronic medical record, ADL, reference model, clinical models, healthcare, health informatics, medical informatics, EHR standards, ISO 18308, CEN 13606, health care software, open source software, knowledge modelling, patient-centric">
-	<meta name="author" content="Sam Heard, Thomas Beale">
+	<meta name="keywords" content="archetypes, openEHR, EHR, electronic health record, electronic medical record, ADL, reference model, clinical models, healthcare, health informatics, medical informatics, EHR standards, ISO 18308, CEN 13606, health care software, open source software, knowledge modelling, patient-centric, archetype editor">
+	<meta name="author" content="Erik Sundvall amd the openEHR software community">
 	<meta name="copyright" content="The openEHR Foundation">
 	<meta name="design" content="Adriana Danilakova">
 	<meta name="distribution" content="Global">
@@ -55,11 +55,30 @@ $pageOn = basename($_SERVER['PHP_SELF']);
 			<?php include 'menu/softwaremenu.php' ?>
 		</div>
 		
-		<div id="TextArea">
-			
+		<div id="TextArea">			
 			<h1>Software Program</h1>
-			<h2>Mission</h2>
-			TBD		
+			The openEHR software program aims to support software development based on 
+			or related to the openEHR specifications. THis page serves as a quick overview 
+			with links mainly to more detailed software related openEHR wiki pages.
+			
+			<h2>Activities</h2>
+			Most current software projects are self-governed and self-funded by various 
+			organisations doing research or commercial product development. 
+			
+			Conformance and interoperability tests
+			- List of archetype errors
+			-
+			
+			Awareness/Listing of software products -> wiki
+			
+			Hosting and "branding"
+			- Open source
+			- Issue tracking
+			- stability via committers from independent organisations
+			
+			List of project suggestions
+			- service to e.g. educational or commercial actors wanting to explore 
+			  unfulfilled openEHR software needs.
 		</div>
 			
 
