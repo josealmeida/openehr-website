@@ -58,7 +58,7 @@ $pageOn = basename($_SERVER['PHP_SELF']);
 		<div id="TextArea">			
 			<h1>Software Program</h1>
 			The openEHR software program aims to support software development based on 
-			or related to the openEHR specifications. THis page serves as a quick overview 
+			or related to the openEHR specifications. This page serves as a quick overview 
 			with links mainly to more detailed software related openEHR wiki pages.
 			
 			<h2>Activities</h2>
