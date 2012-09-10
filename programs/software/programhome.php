@@ -57,18 +57,30 @@ $pageOn = basename($_SERVER['PHP_SELF']);
 		
 		<div id="TextArea">			
 			<h1>Software Program</h1>
+			<p>
 			The openEHR software program aims to support software development based on 
 			or related to the openEHR specifications. This page serves as a quick overview 
-			with links mainly to more detailed software related openEHR wiki pages.
+			with links mainly to more detailed software related openEHR web- and wiki-pages.
+			</p>
 			
-			<h2>Activities</h2>
+			<h2>Current Activities</h2>
+			<p>
 			Most current software projects are self-governed and self-funded by various 
-			organisations doing research or commercial product development. 
+			organisations doing research or commercial product development. The <em>openEHR
+			Software Program</em> is an arena for sharing experience and ideas between projects.
+			Another aim is to increase awareness of available openEHR implementations.
+			A separate page <a href="listofsoftware">lists the known open source software projects</a>
+			and another page lists other <a href="...***...TODO...***...">openEHR based software and services</a>.		
+			</p>
 			
-			Conformance and interoperability tests
-			- List of archetype errors
-			-
+			<h2>Potential future activities</h2>
 			
+			
+			Conformance and interoperability test tools - to be developed together with the 
+			openEHR Specifications Programme.
+			
+			<h1>THIS PAGE IS UNDER DEVELOPMENT</h1>
+		
 			Awareness/Listing of software products -> wiki
 			
 			Hosting and "branding"
