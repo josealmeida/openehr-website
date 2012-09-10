@@ -58,6 +58,7 @@ $pageOn = basename($_SERVER['PHP_SELF']);
 		<div id="TextArea">
 
 		<h1>Governance & Members</h1>
+		
 		<p>The governance structure of the openEHR software program/group is mosly mail-list based
 		   and inspired by the <a href="http://www.apache.org/foundation/">Apache Software Foundation</a>
 		   and <a href="http://www.apache.org/foundation/how-it-works.html#management">the way it works</a>.
@@ -117,6 +118,11 @@ $pageOn = basename($_SERVER['PHP_SELF']);
 		
 		<h2>Program Committee</h2>
 		
+		<p>The <em>Program Committee</em> is responsible for reporting to and relating to the openEHR foundation board
+		and it also maintins the official (and incubating) openEHR software project listings and approves new 
+		<em>Program Qualified Member</em> suggestions (as described above).	
+		</p>
+		
 		<p>The <em>Program Committee</em> is according to openEHR foundation 
 		<a href="https://sites.google.com/a/openehrfoundation.org/foundation/home/foundation-committees">program rules</a>
 		limited to a maximum of 9 and minimum of 5 Qualified Members. During initial/bootstrap committee formation we have strived
@@ -129,11 +135,6 @@ $pageOn = basename($_SERVER['PHP_SELF']);
 		new and/or renewed positions in the <em>Software Program Committee</em> to the openEHR foundation
 		board that does final approval (or asks the <em>Software Program Qualified Members</em> for a new suggestion).
 		</p> 
-		
-		<p>The <em>Program Committee</em> is responsible for reporting to and relating to the openEHR foundation board
-		and it also maintins the official (and incubating) openEHR software project listings and approves new 
-		<em>Program Qualified Member</em> suggestions (as described above).	
-		</p>
 		
 		<h3>Curent Program Committee Members</h3>
 		<ul>
