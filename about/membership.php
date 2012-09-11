@@ -81,7 +81,7 @@ $pageOn = basename($_SERVER['PHP_SELF']);
 			<ul>
 				<li><a href="../programs/specification/members">Specification Program Members</a></li>
 				<li><a href="../programs/clinicalmodels/members">Clinical Models Program Members</a></li>
-				<li><a href="../programs/software/members">Software Program Members</a></li>
+				<li><a href="../programs/software/governance">Software Program Members</a></li>
 				<li><a href="../programs/localisation/members">Localisation Program Members</a></li>
 			</ul>
 			<br/>
